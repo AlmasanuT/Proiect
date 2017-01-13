@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1484234620 source:d:\work\codeblocks proj\menu\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1484304490 source:d:\work\codeblocks proj\test dummy\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484300600 source:d:\work\codeblocks proj\getch'd\main.cpp
+	<conio.h>
+	<iostream>
+
