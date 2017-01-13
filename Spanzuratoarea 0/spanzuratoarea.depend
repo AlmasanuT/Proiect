@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1449149397 source:c:\users\andrei\desktop\de sters\spanzuratoarea\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1449149397 source:c:\users\andrei\desktop\facultate\anul 1\ip\work\stuff that works\spanzuratoarea\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1452867648 source:c:\users\adipa\desktop\facultate\anul 1\ip\work\stuff that works\spanzuratoarea\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1477647400 source:c:\users\adipa\desktop\facultate\anul 1\semestrul 1\ip\ip 2015\work\stuff that works\spanzuratoarea\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1481385054 source:c:\users\adipa\desktop\facultate anul 1\anul 1\semestrul 1\ip\ip 2015\work\stuff that works\spanzuratoarea\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
